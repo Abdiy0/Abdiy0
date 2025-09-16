@@ -1,4 +1,4 @@
-Hi 👋 My name is Abdalah yusuf
+Hi 👋 My name is Abdi yusuf
 ==============================
 
 I'm a 4th-year Software Engineering student with a passion for building new projects.
